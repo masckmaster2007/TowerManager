@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tower Manager", "Tower Manager\Tower Manager.vbproj", "{83028902-55C1-4682-91BA-9ECAB0646673}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83028902-55C1-4682-91BA-9ECAB0646673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83028902-55C1-4682-91BA-9ECAB0646673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83028902-55C1-4682-91BA-9ECAB0646673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83028902-55C1-4682-91BA-9ECAB0646673}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B56D3C37-0CE3-432B-9178-74828EBB88F8}
+	EndGlobalSection
+EndGlobal
